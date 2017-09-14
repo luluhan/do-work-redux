@@ -1,0 +1,24 @@
+/* Bootstrap polyfill */
+/* The project uses bootstrap4.0 version，If you want to use other styles that are not 4.0 . You can be here polyfill*/
+
+/* Common styles for all types */
+.bs-callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+.bs-callout h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+.bs-callout code {
+  border-radius: 3px;
+}
+.bs-callout-danger {
+  border-left-color: #ce4844;
+}

@@ -1,0 +1,24 @@
+/* main styles */
+.app {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+  margin-top: 30px;
+}
+.home-text {
+  margin: 40px 0;
+}
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee;
+}
+.work-box {
+  padding-top: 30px;
+  p {
+    margin: 20px 0;
+  }
+}
